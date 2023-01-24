@@ -1,4 +1,4 @@
-# Python Udemy Course
+# Python Udemy Course 🐍
 
 - Status - Ongoing
 - Projected Completion Date - May 2023
