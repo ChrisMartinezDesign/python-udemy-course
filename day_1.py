@@ -3,7 +3,6 @@
 name = input("What is your name?\n")
 print("Name: " + name)
 
-
 # Fix the code below 👇
 print("Day 1 - String Manipulation")
 print("String Concatenation is done with the " + " sign.")
