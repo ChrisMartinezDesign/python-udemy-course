@@ -1,3 +1,6 @@
+# /////////////////
+# Start
+# -----
 #Data Types
 print("Data Types")
 
@@ -38,6 +41,7 @@ print(f"your score is {score}, your height is {height}, {isWinning}")
 
 # /////////////////////
 # BMI Calculator
+# -----
 # 🚨 Don't change the code below 👇
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
@@ -62,6 +66,7 @@ else:
 
 # /////////////////////
 # Tip Calculator
+# -----
 #If the bill was $150.00, split between 5 people, with 12% tip.
 
 #Each person should pay (150.00 / 5) * 1.12 = 33.6

@@ -1,5 +1,6 @@
-# Day 4 Start - Randomization
-
+# ////////////////////////
+# Start - Randomization
+# -----
 # Mersenne Twister - randomization pattern used by Python
 # Python Modules - broken up pieces of functionality to be used for programs
 # import random
@@ -25,6 +26,10 @@ states_of_america.append("Puerto Rico")
 states_of_america.extend(["Minnesota", "North Carolina"])
 print(states_of_america)
 
+
+# ////////////////////////
+# Exercise 1
+# -----
 #Write your code below this line 👇
 #Hint: Remember to import the random module first. 🎲
 import random
@@ -58,6 +63,7 @@ print(dirty_dozen[0][1])
 
 # //////////////////////
 # Heads or Tails
+# -----
 #Remember to use the random module
 #Hint: Remember to import the random module here at the top of the file. 🎲
 import random
@@ -77,6 +83,7 @@ else:
 
 # //////////////////////
 # Banker Roulette
+# -----
 import random
 
 # 🚨 Don't change the code below 👇
@@ -96,6 +103,7 @@ print(f"{names[choice_index]} is going to buy the meal today!")
 
 # //////////////////////
 # Treasure Map
+# -----
 # 🚨 Don't change the code below 👇
 row1 = ["⬜️","️⬜️","️⬜️"]
 row2 = ["⬜️","⬜️","️⬜️"]
@@ -119,6 +127,7 @@ print(f"{row1}\n{row2}\n{row3}")
 
 # //////////////////////
 # Rock-Paper-Scissors
+# -----
 rock = '''
     _______
 ---'   ____)

@@ -1,3 +1,6 @@
+# /////////////////
+# Start
+# -----
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 
@@ -31,6 +34,7 @@ else:
 
 # ///////////////////////
 # Love Calculator
+# -----
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
@@ -64,6 +68,7 @@ else:
 
 # ///////////////////////
 # Treasure Island
+# -----
 print('''
 *******************************************************************************
           |                   |                  |                     |

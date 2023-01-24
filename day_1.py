@@ -1,3 +1,6 @@
+# /////////////////
+# Start
+# -----
 # Write your code below this line 👇
 # Comment Syntax
 name = input("What is your name?\n")
@@ -12,6 +15,7 @@ print(("New lines can be created with a backslash and n."))
 
 # //////////////////////////
 # Band name Generator
+# -----
 #1. Create a greeting for your program.
 print("Welcome to the Band Name Generator")
 
