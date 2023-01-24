@@ -17,8 +17,8 @@ for number in range(0, 101):
 print(sum)
 
 
-# /////////////////
-# Exercise 1
+# //////////////////////////////
+# Exercise 1 - Average Height
 # -----
 # 🚨 Don't change the code below 👇
 student_heights = input("Input a list of student heights ").split()
@@ -42,8 +42,8 @@ else:
   print("Provide some values to get the average.")
 
 
-# /////////////////
-# Exercise 2
+# ///////////////////////////
+# Exercise 2 - High Score
 # -----
 # 🚨 Don't change the code below 👇
 student_scores = input("Input a list of student scores ").split()
@@ -61,8 +61,8 @@ for score in student_scores:
 print(f"The highest score in the class is: {highest_score}")
 
 
-# /////////////////
-# Exercise 3
+# ////////////////////////////////////
+# Exercise 3 - Adding Even Numbers
 # -----
 #Write your code below this row 👇
 evenSum = 0
@@ -71,8 +71,8 @@ for evenNumber in range(2, 101, 2):
 print(f"The sum of the even numbers is {evenSum}")
 
 
-# /////////////////
-# Exercise 4
+# ////////////////////////////////////////////////
+# Exercise 4 - The FizzBuzz Interview Question
 # -----
 #Write your code below this row 👇
 for number in range(1, 101):
