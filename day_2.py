@@ -37,6 +37,30 @@ print(f"your score is {score}, your height is {height}, {isWinning}")
 
 
 # /////////////////////
+# BMI Calculator
+# 🚨 Don't change the code below 👇
+height = float(input("enter your height in m: "))
+weight = float(input("enter your weight in kg: "))
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+bmi = round(weight / height ** 2)
+intro_str = f"Your BMI is {bmi}, "
+
+if bmi < 18.5:
+    print(intro_str + "you are underweight.")
+elif bmi <= 25:
+    print(intro_str + "you have a normal weight.")
+elif bmi <= 30:
+    print(intro_str + "you are slightly overweight.")
+elif bmi <= 35:
+    print(intro_str + "you are obese.")
+else:
+    print(intro_str + "you are clinically obese.")
+
+
+
+# /////////////////////
 # Tip Calculator
 #If the bill was $150.00, split between 5 people, with 12% tip.
 
